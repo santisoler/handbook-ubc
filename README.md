@@ -22,7 +22,22 @@ Request][pr-docs] to start the conversation or make a suggestion.
 
 ## Content
 
-TOC
+* [Code of Conduct](#code-of-conduct)
+* [Expectations](#expectations)
+  * [Expectations of Summer Researchers](#expectations-of-summer-researchers)
+  * [What can you expect from Santi](#what-can-you-expect-from-santi)
+* [Open Science](#open-science)
+  * [General guidelines on openness](#general-guidelines-on-openness)
+  * [Research ethics](#research-ethics)
+  * [Data and code availability](#data-and-code-availability)
+  * [Use of generative AI tools](#use-of-generative-ai-tools)
+* [Health and well-being](#health-and-well-being)
+* [Links to Resources](#links-to-resources)
+  * [Learning material](#learning-material)
+  * [Software tools](#software-tools)
+* [Credit and terms of reuse](#credit-and-terms-of-reuse)
+* [References](#references)
+
 
 ## Code of Conduct
 
