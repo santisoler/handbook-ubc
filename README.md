@@ -4,7 +4,7 @@
 
 This handbook sets the expectations and describe the research culture and
 atmosphere that I, Santiago Soler, want to create when mentoring summer research
-projects in the Geophysical Inversion Facility, in the [Earth, Ocean and
+projects in the Geophysical Inversion Facility, [Earth, Ocean and
 Atmospheric Sciences][eoas], [UBC][ubc], under the supervision of [Lindsey
 Heagy][lindsey].
 
