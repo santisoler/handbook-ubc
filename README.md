@@ -250,7 +250,7 @@ Python:
   TOS](https://www.anaconda.com/pricing/terms-of-service-faqs)).
 * [Ruff](https://astral.sh/ruff): a fast Python
   [linter](https://en.wikipedia.org/wiki/Lint_(software)).
-  [Scientific Python has a great Ruff configuration
+  Scientific Python has a great [Ruff configuration
   template](https://learn.scientific-python.org/development/guides/style/#ruff)
   that works great for most situations.
 
