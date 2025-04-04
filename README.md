@@ -177,7 +177,7 @@ incorrect statements, mislearning fundamental topics, plagiarism, etc.).
 Usage of generative AI tools **while learning is strongly discouraged**.
 Quoting [Lee et al. (2025)][lee-2025]:
 
-> [...] while GenAI can improve worker efficiency, it can inhibit critical
+> \[...\] while GenAI can improve worker efficiency, it can inhibit critical
 > engagement with work and can potentially lead to long-term overreliance on
 > the tool and diminished skill for independent problem-solving. Higher
 > confidence in GenAI's ability to perform a task is related to less critical
