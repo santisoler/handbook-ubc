@@ -3,9 +3,10 @@
 ## About
 
 This handbook sets the expectations and describe the research culture and
-atmosphere that I, Santiago Soler, want to create when advising summer research
+atmosphere that I, Santiago Soler, want to create when mentoring summer research
 projects in the Geophysical Inversion Facility, in the [Earth, Ocean and
-Atmospheric Sciences][eoas], [UBC][ubc].
+Atmospheric Sciences][eoas], [UBC][ubc], under the supervision of [Lindsey
+Heagy][lindsey].
 
 The main motivation for writing this handbook comes from my personal experience
 of doing a PhD as a member of the [Computer-Oriented Geoscience
@@ -18,7 +19,7 @@ This handbook is intended to be a live document, so if you think there's
 anything that should be fixed or modified, if there's anything missing you
 would like to add, or if there's anything you don't agree and would like to
 discuss, please don't hesitate to [open an Issue][issue-docs] or a [Pull
-Request][pr-docs] to start the conversation or make a suggestion.
+Request][pr-docs] to start the conversation and/or make a suggestion.
 
 ## Content
 
@@ -43,12 +44,13 @@ Request][pr-docs] to start the conversation or make a suggestion.
 
 Summer researchers must follow [UBC's Student code of conduct][ubc-student-coc]
 and the [EOAS Code of Conduct][eoas-coc]. Any violation of these Code of
-Conducts can be reported to [Santiago Soler](mailto:ssoler@eoas.ubc.ca) or
-using the appointed channels for reporting unacceptable behaviours.
+Conducts can be reported to [Santiago Soler](mailto:ssoler@eoas.ubc.ca),
+[Lindsey Heagy](mailto:lheagy@eoas.ubc.ca) or using the appointed channels for
+reporting unacceptable behaviours.
 
 When interacting with open-source software communities, either in person or
-online, summer researchers are required to follow to the communities' Code of
-Conduct.
+online, summer researchers are required to also follow the communities' code of
+conduct.
 For example, when interacting with communities like [SimPEG][simpeg] or
 [Fatiando a Terra][fatiando] by asking questions in their communication
 channels, opening issues or pull request, etc., one needs to adhere to their
@@ -119,8 +121,8 @@ reason not to (like PII or other restrictions).
 ### General guidelines on openness
 
 * Work on software should be conducted in **public repositories**.
-* Papers, dissertations, and research projects may be held back as private
-  until time of first submission, when they **must be made public for
+* Research repositories that are intended to be published may be held back as
+  private until time of first submission, when they **must be made public for
   peer-review**.
 * Because most repositories will be made publicly accessible, including their
   entire history, summer researchers are required to **behave professionally**
@@ -293,6 +295,7 @@ Attribution 4.0 International (CC BY 4.0) license, and on
 [lee-2025]: https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf
 
 [santisoler]: https://www.santisoler.com
+[lindsey]: https://lindseyjh.ca
 [compgeolab]: https://www.compgeolab.org
 [compgeolab-manual]: https://www.compgeolab.org/manual
 [eoas]: https://www.eoas.ubc.ca
